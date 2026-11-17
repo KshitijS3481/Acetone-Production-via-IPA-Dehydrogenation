@@ -51,15 +51,15 @@ The plant processes a fresh liquid feed of **$50\text{ kmol/h}$** ($67\text{ mol
 * **Aspen Exchanger Design and Rating (EDR):** Rigorous shell-and-tube thermal and mechanical design.
 * **Aspen Energy Analyzer (AEA):** Composite curve generation and pinch diagnostics.
 * **Aspen Process Economic Analyzer (APEA):** Equipment sizing, bare-module costing, and 10-year DCF/NPV evaluation.
-
+  
 ---
 
 ## 👥 Team 5 Contributors
-* **Aarnav Gupta** (`230014`)
-* **Khushi Khandelwal** (`230561`)
-* **Krish Agarwal** (`230570`)
-* **Kshitij Srivastava** (`230584`)
-* **Shagun** (`230948`)
-* **Shreyas Gupta** (`230991`)
+* **Aarnav Gupta** 
+* **Khushi Khandelwal** 
+* **Krish Agarwal** 
+* **Kshitij Srivastava** 
+* **Shagun** 
+* **Shreyas Gupta** 
 
 *Supervised by Dr. Raghavendra Ragipani, Department of Chemical Engineering, IIT Kanpur.*
